@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<usuarios id="1" name="username2" email="correo2@correo.com" password="123456" isLogged="false"/>
+</dataset>
